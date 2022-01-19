@@ -1,0 +1,33 @@
+body{
+    background-color:#710;
+}
+h3{
+    font-size:xx-large;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-family: 'Crete Round', serif;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Righteous', cursive;
+    font-family: 'Yuji Mai', serif;
+    color:white;
+}
+#note{
+    font-size:large;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    color:black;
+    font-weight: bolder;
+}
+#footer{
+    position: fixed;
+    bottom: 15;
+    text-align: center;
+    width: 100%;
+    color: black;
+    font-size: large;
+    font-weight: bolder;
+}
+canvas{
+    border-radius: 5px;
+    border-color:black;
+    background-color: white;
+    margin-bottom:50px;
+}
